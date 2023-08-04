@@ -16,6 +16,9 @@ This repository contains dataset we used for training, validation and testing in
 
 + Authors: Ksenia Bittner, Stefano Zorzi, Thomas Krauß, Pablo d’Angelo
 
+## Getting started with dataset
+
+
 
 ## BibTeX citation
 If you use this dataset to compare your findings with ours, please consider citing the following publication:
