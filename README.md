@@ -1,6 +1,6 @@
 # DSM2DTM: Swiss Public Dataset for Digital Terrain Model Generation
 DSM2DTM is a research project conducted by the Photogrammetry and Image analysis department at German Aerospace Center (DLR).
-This repository contains dataset we used for training, validation and testing in our pablication "DSM2DTM: An End-to-End Deep Learning Approach for Digital Terrain Model Generation", ISPRS Geospatial Week 2023. 
+This repository contains dataset we used for training, validation and testing in our pablication "DSM2DTM: An End-to-End Deep Learning Approach for Digital Terrain Model Generation", ISPRS Geospatial Week 2023. Originally, the data is provided by the Federal Office of Topography of Switzerland and is freely available on the [Swisstopo Portal](https://www.swisstopo.admin.ch/en/geodata.html).
 
 <p align="center">
   <img src="https://github.com/KseniaBittner/DSM2DTM/blob/main/img/FribourgMountain_DSM.jpg" alt>
@@ -17,8 +17,7 @@ This repository contains dataset we used for training, validation and testing in
 + Authors: Ksenia Bittner, Stefano Zorzi, Thomas Krauß, Pablo d’Angelo
 
 ## Getting started with dataset
-
-
+The dataset folder contains DSM and DTM files 
 
 ## BibTeX citation
 If you use this dataset to compare your findings with ours, please consider citing the following publication:
