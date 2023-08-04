@@ -4,6 +4,6 @@ This repository contains dataset we used for training, validation and testing in
 ![DSM](https://github.com/KseniaBittner/DSM2DTM/blob/main/img/FribourgMountain_DSM.jpg) *Sample of area from our Fribourg test dataset illustrated input DSM*
 
 <p align="center">
-  <Resulted DTM src="https://github.com/KseniaBittner/DSM2DTM/blob/main/img/FribourgMountain_EffNet.jpg" />
+  <img src="https://github.com/KseniaBittner/DSM2DTM/blob/main/img/FribourgMountain_EffNet.jpg" alt>
   <em>Sample of area from our Fribourg test dataset illustrated resulted DTM</em>
 </p>
