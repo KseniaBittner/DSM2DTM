@@ -18,4 +18,4 @@ This repository contains dataset we used for training, validation and testing in
 
 
 ## BibTeX citation
-If you use this dataset to compare your findings with ours, please, cite the following publication:
+If you use this dataset to compare your findings with ours, please consider citing the following publication:
