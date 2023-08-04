@@ -17,7 +17,7 @@ This repository contains dataset we used for training, validation and testing in
 + Authors: Ksenia Bittner, Stefano Zorzi, Thomas Krauß, Pablo d’Angelo
 
 ## Getting started with dataset
-The dataset folder contains DSM and DTM files 
+The dataset folder provides collections of links to DSM and DTM images for four selected Cantons (Zuerich, St. Gallen, Vaud and Fribourg), packed in *.csv files. 
 
 ## BibTeX citation
 If you use this dataset to compare your findings with ours, please consider citing the following publication:
