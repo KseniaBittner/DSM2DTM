@@ -11,6 +11,7 @@ This repository contains dataset we used for training, validation and testing in
   <img src="https://github.com/KseniaBittner/DSM2DTM/blob/main/img/FribourgMountain_EffNet.jpg" alt>
   <em>Sample of area from our Fribourg test dataset illustrated resulted DTM</em>
 </p>
+
 + Paper PDF: DSM2DTM: An End-to-End Deep Learning Approach for Digital Terrain Model Generation
 
 + Authors: Ksenia Bittner, Stefano Zorzi, Thomas Krauß, Pablo d’Angelo
